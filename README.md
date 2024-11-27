@@ -24,7 +24,9 @@ Deploy PowerBi to:
 - Power Query: Loading and Cleaning, Profiling, Quality Assurance, Unpivoting data...
 
 - DAX :Calculated Coumns, Measures (Implicit, Explicit), Rolling Calendar, Modelling- Snowflake Schema ( One to Many Cardinality, Hierarchies, Active and Inactive Relationships, Bi-directional filtering, Data Formats and Categories)
+![](PowerBi_Snow_flake_Data_Model.png2.png)
 
 - Data Visualization: Data Viz Best Practice, Bookmark, User Roles, KPI Cards, Custom Tooltips, Report Intercations, Charting, Tooltips...
+  ![]()
 
-![](
+

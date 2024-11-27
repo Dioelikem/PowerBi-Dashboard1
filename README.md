@@ -25,5 +25,5 @@ Power Query: Loading and Cleaning, Profiling, Quality Assurance, Unpivoting data
 
 DAX :Calculated Coumns, Measures (Implicit, Explicit), Rolling Calendar, Modelling- Snowflake Schema ( One to Many Cardinality, Hierarchies, Active and Inactive Relationships, Bi-directional filtering, Data Formats and Categories)
 
-Data Visualization: Data Viz Best Practice, Bookmark, User Roles, Custom Tooltips, Report Intercations, Charting, Tooltips...
+Data Visualization: Data Viz Best Practice, Bookmark, User Roles, KPI Cards, Custom Tooltips, Report Intercations, Charting, Tooltips...
 

@@ -1,5 +1,7 @@
 # Adventure Works Management Dashboard
+## Executive Summary
 ![](Adventure_Works_Executive_Summary.png)
+
 
 **Business Situation**
 ---
@@ -11,13 +13,10 @@ We have a folder of raw csv files, contaning Transactions, Returns, Products, Cu
 ---
 Deploy PowerBi to:
 
-- Connect and transform the raw data.
-
-- Build a relational data model.
-
-- Create calculated columns and measures with DAX.
-
-- Design an interactive dashboard to visualize the data.
+1. Connect and transform the raw data.
+2. Build a relational data model.
+3. Create calculated columns and measures with DAX.
+4. Design an interactive dashboard to visualize the data.
 
 **Skills & Concepts Demonstrated**
 ---

@@ -2,6 +2,15 @@
 ## Executive Summary
 ![](Adventure_Works_Executive_Summary.png)
 
+Overall Performance
+1.  Business recorded Total Revenue of $24M from Jan 2020 to Jan 2022 and a Gross Profit of $10M Gross Profit, a healthy 41% Gross Margin.
+2.  Return rate was 2.2% Return which is within benchmark target.
+
+Monthly Revenue Trend
+1.  Monthly revenue was trending around $600K from Jan 2020 but sharly declined to 300K in Nov 2020,
+2.  Picked up from in June 2021 at $560K, surging to $800k in July 2021,
+3.  Phenomenal upward trend to 1.8M since then and expected to hit max of 1.9M
+   
 
 **Business Situation**
 ---

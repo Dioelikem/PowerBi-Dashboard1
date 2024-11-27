@@ -22,6 +22,8 @@ Deploy PowerBi to:
 **Skills & Concepts Demonstrated**
 ---
 Power Query: Loading and Cleaning, Profiling, Quality Assurance, Unpivoting data...
-DAX :Calculated Coumns, Measures (Implicit, Explicit), Rolling Calendar, Modelling- Snowflake Schema ( One to Many Cardinality, Active and Inactive Relationships)
-Data Visualization: Charting, Tooltips, 
+
+DAX :Calculated Coumns, Measures (Implicit, Explicit), Rolling Calendar, Modelling- Snowflake Schema ( One to Many Cardinality, Hierarchies, Active and Inactive Relationships, Bi-directional filtering, Data Formats and Categories)
+
+Data Visualization: Data Viz Best Practice, Bookmark, User Roles, Custom Tooltips, Report Intercations, Charting, Tooltips...
 

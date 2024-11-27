@@ -14,3 +14,5 @@ Deploy PowerBi to:
 -Create calculated columns and measures with DAX
 
 -Design an interactive dashboard to visualize the data.
+
+![](Adventure_Works_Executive_Summary.png)

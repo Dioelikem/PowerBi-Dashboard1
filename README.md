@@ -27,3 +27,4 @@ Deploy PowerBi to:
 
 - Data Visualization: Data Viz Best Practice, Bookmark, User Roles, KPI Cards, Custom Tooltips, Report Intercations, Charting, Tooltips...
 
+![](

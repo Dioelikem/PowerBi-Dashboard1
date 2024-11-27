@@ -11,19 +11,19 @@ We have a folder of raw csv files, contaning Transactions, Returns, Products, Cu
 ---
 Deploy PowerBi to:
 
--Connect and transform the raw data.
+- Connect and transform the raw data.
 
--Build a relational data model.
+- Build a relational data model.
 
--Create calculated columns and measures with DAX.
+- Create calculated columns and measures with DAX.
 
--Design an interactive dashboard to visualize the data.
+- Design an interactive dashboard to visualize the data.
 
 **Skills & Concepts Demonstrated**
 ---
-Power Query: Loading and Cleaning, Profiling, Quality Assurance, Unpivoting data...
+- Power Query: Loading and Cleaning, Profiling, Quality Assurance, Unpivoting data...
 
-DAX :Calculated Coumns, Measures (Implicit, Explicit), Rolling Calendar, Modelling- Snowflake Schema ( One to Many Cardinality, Hierarchies, Active and Inactive Relationships, Bi-directional filtering, Data Formats and Categories)
+- DAX :Calculated Coumns, Measures (Implicit, Explicit), Rolling Calendar, Modelling- Snowflake Schema ( One to Many Cardinality, Hierarchies, Active and Inactive Relationships, Bi-directional filtering, Data Formats and Categories)
 
-Data Visualization: Data Viz Best Practice, Bookmark, User Roles, KPI Cards, Custom Tooltips, Report Intercations, Charting, Tooltips...
+- Data Visualization: Data Viz Best Practice, Bookmark, User Roles, KPI Cards, Custom Tooltips, Report Intercations, Charting, Tooltips...
 

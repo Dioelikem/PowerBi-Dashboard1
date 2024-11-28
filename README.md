@@ -49,9 +49,9 @@ Deploy PowerBi to:
 8. **Numeric Range parameters**: for simulation and Scenario analysis to assess for instance impact of different price points or discounts.
 
 **Customer Dashboad** 
-- highlightsTop Customer by Revenue, Number of Customers, Average Revenue by Customer and Orders by Income levels and Occupations Categories.
+- highlightsTop Customer by Revenue, Number of Customers, Average Revenue by Customer and Orders by Income levels and occupations Categories.
 - Maurice Shan is No.1 Top Customer, presenting opportunity to potentially cross fertilize his business model to other customers for growth.
-- Also, Number of customers increased to 17 thousand, revenue by customer is on decline, presenting opportunities to improve customer quality.
+- Also, whilst the number of customers increased to 17,000, revenue by customer is trending downwar, presenting opportunities to improve customer quality and not just the quantity.
 
 ![](Adventure_Works_Customer_Details.png)
 

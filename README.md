@@ -25,9 +25,8 @@ Deploy PowerBi to:
 2.  Return rate was 2.2% Return which is within benchmark target.
    
 **Monthly Revenue Trend**
-1.  Monthly revenue was trending around $600K from Jan 2020 but sharly declined to 300K in Nov 2020,
-2.  Picked up from in June 2021 at $560K, surging to $800k in July 2021,
-3.  Phenomenal upward trend to 1.8M since then and expected to hit max of 1.9M
+1.  Monthly revenue was trended around $600K from Jan 2020 but sharly declined to 300K in Nov 2020,
+2.  Picking up from June 2021 at $560K, and surging to $800k in July 2021, and Phenomenal upward trend to $1.8M ever since and projected to hit max of $1.9M.
  
  ### Data Model  
 1. The Adventure Works dataset is complex as it came with 2 fact tables- Sales Transactions and Returns fact tables and 6 Dimension Tables, 2 of which had 2 subcategory level.

@@ -2,31 +2,32 @@
 
 **Business Situation**
 
-Adventure Works is a fictional cycling equipment and accesories manufacturing company.
-Management needs a dasbboard to track KPIs (sales, revenue, profit, returns), compare regional performance, analyze product-level trends, and identify high-value customers.
-We have a folder of raw csv files, contaning Transactions, Returns, Products, Customers, and Sales Territories.
+Adventure Works, a fictional manufacturer of cycling equipment and accessories, requires a comprehensive dashboard to monitor key performance indicators (KPIs) such as sales, revenue, profit, and returns. 
 
 **Data Analysis Objectives**
-Deploy PowerBi to:
-1. Connect and transform the raw data.
-2. Build a relational data model.
-3. Create calculated columns and measures with DAX.
-4. Design an interactive dashboard to visualize the data.
+The dashboard must enable management to:
+1. Track and compare performance across regions.
+2. Analyze trends at the product level.
+3. Identify and prioritize high-value customers.
+
+**Data sets**
+The project involves working with a folder containing 14 raw CSV datasets, each with up to 36,000 rows. These datasets include information on transactions, returns, products, customers, and sales territories, providing the foundation for in-depth analysis and actionable insights.
    
 **Skills & Concepts Demonstrated**
-- Power Query: Loading and Cleaning, Profiling, Quality Assurance, Unpivoting data...
-- DAX :Calculated Coumns, Measures (Implicit, Explicit), Rolling Calendar, Modelling- Snowflake Schema ( One to Many Cardinality, Hierarchies, Active and Inactive Relationships, Bi-directional filtering, Data Formats and Categories
+- Power Query: data Loading and Cleaning, Profiling, Quality Assurance, Unpivoting
+- DAX :Calculated Coumns, Measures (Implicit, Explicit), Rolling Calendar, Modelling- Snowflake Schema ( One to Many Cardinality, Hierarchies, Active and Inactive Relationships, Bi-directional filtering), Data Formating and Category typing.
 
  ## Executive Summary
 ![](Adventure_Works_Executive_Summary.png)
 
 **Overall Performance**
-1.  Business recorded Total Revenue of $24M from Jan 2020 to Jan 2022 and a Gross Profit of $10M Gross Profit, a healthy 41% Gross Margin.
-2.  Return rate was 2.2% Return which is within benchmark target.
+1.  Total Revenue: Business recorded Total Revenue of $24M from Jan 2020 to Jan 2022 and a Gross Profit of $10M, a healthy 41% Gross Margin.Annual Revenue trended at $500K-$600k from Jan 2020 to July 2021 but afterwards trended sharply upward till YTD Jan 2022 at $1.8M.
+2.  Sales volumes: accessories topped with 17k units, followed by Bikes (14k) and clothing (7k)
+3.  Return rate was 2.2% Return (below benchmark of 3%).
    
 **Monthly Revenue Trend**
-1.  Monthly revenue was trended around $600K from Jan 2020 but sharly declined to 300K in Nov 2020,
-2.  Picking up from June 2021 at $560K, and surging to $800k in July 2021, and been on phenomenal upward trend to $1.8M ever since.
+1.  Monthly revenue trended around $600K from Jan 2020 but sharply declined to 300K in Nov 2020,
+2.  it picked up from June 2021 at $560K, surging to $800k in July 2021, and been on phenomenal upward trend to $1.8M ever since.
 3.  Revenue is projected to hit max of $1.9M.
  
  ### Data Model  

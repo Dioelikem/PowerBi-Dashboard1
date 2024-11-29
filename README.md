@@ -5,15 +5,18 @@
 Adventure Works, a fictional manufacturer of cycling equipment and accessories, requires a comprehensive dashboard to monitor key performance indicators (KPIs) such as sales, revenue, profit, and returns. 
 
 **Data Analysis Objectives**
+
 The dashboard must enable management to:
 1. Track and compare performance across regions.
 2. Analyze trends at the product level.
 3. Identify and prioritize high-value customers.
 
 **Data sets**
+
 The project involves working with a folder containing 14 raw CSV datasets, each with up to 36,000 rows. These datasets include information on transactions, returns, products, customers, and sales territories, providing the foundation for in-depth analysis and actionable insights.
    
 **Skills & Concepts Demonstrated**
+
 - Power Query: data Loading and Cleaning, Profiling, Quality Assurance, Unpivoting
 - DAX :Calculated Coumns, Measures (Implicit, Explicit), Rolling Calendar, Modelling- Snowflake Schema ( One to Many Cardinality, Hierarchies, Active and Inactive Relationships, Bi-directional filtering), Data Formating and Category typing.
 
@@ -21,9 +24,12 @@ The project involves working with a folder containing 14 raw CSV datasets, each 
 ![](Adventure_Works_Executive_Summary.png)
 
 **Overall Performance**
-1.  Total Revenue: Business recorded Total Revenue of $24M from Jan 2020 to Jan 2022 and a Gross Profit of $10M, a healthy 41% Gross Margin.Annual Revenue trended at $500K-$600k from Jan 2020 to July 2021 but afterwards trended sharply upward till YTD Jan 2022 at $1.8M.
-2.  Sales volumes: accessories topped with 17k units, followed by Bikes (14k) and clothing (7k)
-3.  Return rate was 2.2% Return (below benchmark of 3%).
+1.  Total Revenue: Business recorded Total Revenue of $24M from Jan 2020 to Jan 2022 and a Gross Profit of $10M,representing a healthy 41% Gross Margin.
+2.  Annual Revenue trended at $500K-$600k from Jan 2020 to July 2021 but afterwards trended sharply upward till YTD Jan 2022 at $1.8M.
+3. Customer Performance & Trend: Maurice Shan is No.1 Top Customer, presenting opportunity to potentially cross fertilize his business model to other customers for growth.
+4. Also, whilst the number of customers increased to 17,000, revenue by customer is trending downward, presenting opportunities to improve customer quality and not just the quantity.Customer Trends.
+5.  Sales volumes: accessories topped with 17k units, followed by Bikes (14k) and clothing (7k), presenting a potential opportunity to double down on investment on accesories to ensure to no supply disruptions or stock-outs.
+6.  Return rate was 2.2% Return (below benchmark of 3%).
    
 **Monthly Revenue Trend**
 1.  Monthly revenue trended around $600K from Jan 2020 but sharply declined to 300K in Nov 2020,

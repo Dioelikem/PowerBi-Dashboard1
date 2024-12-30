@@ -27,14 +27,15 @@ The project involves working with a folder containing 14 raw CSV datasets, each 
 1.  Total Revenue: Business recorded Total Revenue of $24M from Jan 2020 to Jan 2022 and a Gross Profit of $10M,representing a healthy 41% Gross Margin.
 2.  Annual Revenue trended at $500K-$600k from Jan 2020 to July 2021 but afterwards trended sharply upward till YTD Jan 2022 at $1.8M as sales in accesories soared.
 3. Customer Performance & Trend: Maurice Shan is No.1 Top Customer, presenting opportunity to potentially cross fertilize his business model to other customers for growth.
-4. Customer Trends: whilst the number of customers increased to 17,000, revenue by customer is trending downward, presenting opportunities to improve customer quality and not just the quantity. Operational KPIs such Customer Aquisition Cost (CAC), ARR (Annual Revenue Rate) and Monthly Revenue Rates to optimize effectiveness. 
+4. Customer Trends: whilst the number of customers increased to 17,000, revenue by customer is trending downward, presenting opportunities to improve customer quality and not just the quantity. Operational KPIs such Customer Aquisition Cost (CAC), ARR (Annual Revenue Rate) and Monthly Revenue Rates (MRR) to optimize effectiveness. 
 5.  Sales volumes: accessories topped with 17k units, followed by Bikes (14k) and clothing (7k), presenting a potential opportunity to double down on investment on accesories to ensure no supply disruptions or stock-outs.
 6.  Return rate was 2.2% Return (below benchmark of 3%).
+7.  Also, revenue is projected to hit max of $1.9M with 90% confidence interval based on predictive analytics: this insight offers an opportunity to reevaluate raw materials and stocks covers to meet this projected growth. 
    
 **Monthly Revenue Trend**
 1.  Monthly revenue trended around $600K from Jan 2020 but sharply declined to 300K in Nov 2020, due to winter-related seasonality drops. 
 2.  it picked up from June 2021 at $560K, surging to $800k in July 2021, and been on phenomenal upward trend to $1.8M ever since.
-3.  Revenue is projected to hit max of $1.9M based predictive analytics: opportunity to reevaluate raw materials and stocks cover in order to enable the opportunity. 
+3.  Revenue is projected to hit max of $1.9M based predictive analytics with 90% confidence interval: opportunity to reevaluate raw materials and stocks covers to meet this projected growth. 
  
  ### Data Model  
 1. The Adventure Works dataset is complex as it came with 2 fact tables- Sales Transactions and Returns fact tables and 6 Dimension Tables, 2 of which had 2 subcategory level lookups tables.
